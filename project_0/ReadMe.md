@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.ReadMe.md#Описание-проекта)  
-[2. Какой кейс решаем?](.ReadMe.md#Какой-кейс-решаем)  
+[1. Описание проекта](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.ReadMe.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.ReadMe.md#Этапы-работы-над-проектом)  
-[5. Результат](.ReadMe.md#Результат)    
-[6. Выводы](.ReadMe.md#Выводы) 
+[5. Результат](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Результат)    
+[6. Выводы](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,25 +31,25 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/project_0/ReadMe.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
