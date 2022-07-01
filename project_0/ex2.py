@@ -1,5 +1,5 @@
 '''Игра - "Угадай число"
-компьютер сам загадывает и угадывает число
+компьютер сам загадывает и угадывает число максимум за 20 попыток
 '''
 
 import numpy as np
@@ -14,16 +14,30 @@ def random_predict(number: int=1) -> int:
         int: _число попыток_
     """
     
-    count = 0
-
+    count = 0  # количество попыток
+    limit_a = 1 # Минимально возможное загаданное число
+    limit_b = 101 # Максимально возможное загаданное число + 1
+        
+    predict_number = np.random.randint(limit_a, limit_b) # Определяем предполагаемое число   
+    
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # Предполагаемое число
-        if predict_number == number:
-            break
+
+        # Если предполагаемое число больше загаданного, то 
+        if predict_number > number:     
+            limit_b = predict_number - 1   # переопределяем  максимально возможное загаданное число 
+            predict_number = ( limit_b + limit_a) // 2  # определяем предполагаемое число как среднее между максимально и минимально возможным  
+
+        # Если предполагаемое число меньше загаданного, то 
+        elif predict_number < number:
+            limit_a = predict_number + 1   # переопределяем  минимально возможное загаданное число 
+            predict_number = ( limit_b + limit_a) // 2  # определяем предполагаемое число как среднее между максимально и минимально возможным 
+
+        else:
+            break  # конец игры- выходим из цикла
     return count
 
-#print(f'Количество попыток {random_predict(99)}')
+
 
 
 
@@ -49,6 +63,7 @@ def score_game(random_predict) -> int:
     print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
     return(score)
 
-# RUN
+ #RUN
 if __name__ == '__main__':
     score_game(random_predict)
+    
