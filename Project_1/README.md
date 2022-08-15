@@ -40,7 +40,7 @@
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Anton-27/study_data_science/blob/main/Project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%20Project%201.ipynb)
-[Интерактивные графики](https://drive.google.com/file/d/1G_ihBATUecfH2y6w4GyDlCAIfCNkLBAc/view?usp=sharing)
+* [Ноутбук с выполненными заданиями и выводами](https://github.com/Anton-27/study_data_science/blob/main/Project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%20Project%201.ipynb)  
+* [Интерактивные графики](https://drive.google.com/file/d/1G_ihBATUecfH2y6w4GyDlCAIfCNkLBAc/view?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/Project_1/README.md#Оглавление)
