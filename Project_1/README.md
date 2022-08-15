@@ -8,6 +8,7 @@
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
+[Первоначальный датасет](https://drive.google.com/file/d/1e_tVXA6SoKQvGydG95UQPYnwT8eIK-3W/view?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/Project_1/README.md#Оглавление)
 
@@ -40,5 +41,6 @@
 
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/Anton-27/study_data_science/blob/main/Project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%20Project%201.ipynb)
+[Интерактивные графики](https://drive.google.com/file/d/1G_ihBATUecfH2y6w4GyDlCAIfCNkLBAc/view?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/Anton-27/study_data_science/blob/main/Project_1/README.md#Оглавление)
